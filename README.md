@@ -8,3 +8,5 @@ This was developed in React.js, using Google Firebase as the database.
 
 ## Showcase
 
+![Alt text](https://github.com/wocaso/-Medical-record-Center/blob/main/public/Screen%20for%20readme.gif)
+
