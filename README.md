@@ -2,7 +2,7 @@
 
 This is a simple project requested by a doctor here in Argentina for managing medical records at a local clinic.
 
-## Tecnology used
+## Technologies Utilized
 
 This was developed in React.js, using Google Firebase as the database.
 
